@@ -3,7 +3,7 @@
 ## Run
 
 ```
-go run ./
+go run .\main\
 ```
 
 semuanya karena dari `go mod`
