@@ -14,4 +14,4 @@
 go run .\main\
 ```
 
-semuanya karena dari `go mod`
+semuanya karena dari `./go.mod`
